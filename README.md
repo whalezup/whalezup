@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Chuan Kheng [(wiki)](https://github.com/whalezup/OT_ICS/wiki) <br>
-Information Technology Engineer with GPEN, GCIH, PMP certification and has more than 15 years of experience in system integration, operations and service, software consultation and project management work. Broad technology knowledge of IT Infrastructure/Systems/Network including installation, configuration, management, support and vendor management. A reliable team player and keen learner who is comfortable working with both internal and external customers.
+Information Technology Engineer with GPEN, GCIH, PMP certification and experience in system integration, operations and service, software consultation and project management work. Broad technology knowledge of IT Infrastructure/Systems/Network including installation, configuration, management, support and vendor management. A reliable team player and keen learner who is comfortable working with both internal and external customers.
 
 <hr>
 
