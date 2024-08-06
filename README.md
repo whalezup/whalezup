@@ -31,6 +31,7 @@ Information Technology Engineer with GPEN, GCIH, PMP certification and has more 
 
 ## ✨  Fun fact
 * Built and operationalized several 12GPU Linux Rig running of a small usb drive each. With uptime stability of more than 5 consecutive months.
+* Built 8GPU password compliance server
 * Implementated privilege account managment system for maintenance support team and their vendors. (Complete with supporting workflows of various usage scenarios)
 
 <hr>
